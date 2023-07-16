@@ -7,3 +7,4 @@ uses
 
 const
   DLLStackName = '';
+  WinsockLevel = $0202;
