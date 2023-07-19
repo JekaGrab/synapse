@@ -12,3 +12,4 @@ const
 function InitSocketInterface(stack: string): Boolean;
 
 type
+  u_char = Char;
