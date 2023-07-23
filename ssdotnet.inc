@@ -16,3 +16,4 @@ type
   u_short = Word;
   u_int = Integer;
   ULong = cardinal;
+  TMemory = Array of byte;
