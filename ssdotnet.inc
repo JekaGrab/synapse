@@ -17,3 +17,4 @@ type
   u_int = Integer;
   ULong = cardinal;
   TMemory = Array of byte;
+TLinger = LingerOption;
