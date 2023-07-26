@@ -18,3 +18,4 @@ type
   ULong = cardinal;
   TMemory = Array of byte;
 TLinger = LingerOption;
+  TSocket = socket;
