@@ -19,3 +19,4 @@ type
   TMemory = Array of byte;
 TLinger = LingerOption;
   TSocket = socket;
+  TAddrFamily = AddressFamily;
