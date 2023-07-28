@@ -20,3 +20,6 @@ type
 TLinger = LingerOption;
   TSocket = socket;
   TAddrFamily = AddressFamily;
+
+const
+  WSADESCRIPTION_LEN     =   256;
