@@ -24,3 +24,4 @@ TLinger = LingerOption;
 const
   WSADESCRIPTION_LEN     =   256;
   WSASYS_STATUS_LEN      =   128;
+type
