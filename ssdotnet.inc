@@ -26,3 +26,4 @@ const
   WSASYS_STATUS_LEN      =   128;
 type
   PWSAData = ^TWSAData;
+  TWSAData = packed record
