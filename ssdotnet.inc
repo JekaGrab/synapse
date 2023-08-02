@@ -27,3 +27,4 @@ const
 type
   PWSAData = ^TWSAData;
   TWSAData = packed record
+    wVersion: Word;
