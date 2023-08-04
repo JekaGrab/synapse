@@ -29,3 +29,4 @@ type
   TWSAData = packed record
     wVersion: Word;
     wHighVersion: Word;
+    szDescription: array[0..WSADESCRIPTION_LEN] of Char;
