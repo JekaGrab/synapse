@@ -32,3 +32,4 @@ type
     szDescription: array[0..WSADESCRIPTION_LEN] of Char;
     szSystemStatus: array[0..WSASYS_STATUS_LEN] of Char;
     iMaxSockets: Word;
+    iMaxUdpDg: Word;
