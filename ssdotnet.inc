@@ -33,3 +33,4 @@ type
     szSystemStatus: array[0..WSASYS_STATUS_LEN] of Char;
     iMaxSockets: Word;
     iMaxUdpDg: Word;
+//    lpVendorInfo: PChar;
