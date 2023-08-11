@@ -34,3 +34,4 @@ type
     iMaxSockets: Word;
     iMaxUdpDg: Word;
 //    lpVendorInfo: PChar;
+  end;
