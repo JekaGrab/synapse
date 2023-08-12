@@ -35,3 +35,5 @@ type
     iMaxUdpDg: Word;
 //    lpVendorInfo: PChar;
   end;
+
+const
