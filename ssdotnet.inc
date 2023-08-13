@@ -37,3 +37,4 @@ type
   end;
 
 const
+  MSG_NOSIGNAL = 0;
