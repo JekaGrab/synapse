@@ -39,3 +39,4 @@ type
 const
   MSG_NOSIGNAL = 0;
   INVALID_SOCKET = nil;
+  AF_UNSPEC = AddressFamily.Unspecified;
