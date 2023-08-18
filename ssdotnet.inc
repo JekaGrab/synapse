@@ -41,3 +41,4 @@ const
   INVALID_SOCKET = nil;
   AF_UNSPEC = AddressFamily.Unspecified;
   AF_INET = AddressFamily.InterNetwork;
+  AF_INET6 = AddressFamily.InterNetworkV6;
