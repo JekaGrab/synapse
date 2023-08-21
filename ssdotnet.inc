@@ -42,3 +42,4 @@ const
   AF_UNSPEC = AddressFamily.Unspecified;
   AF_INET = AddressFamily.InterNetwork;
   AF_INET6 = AddressFamily.InterNetworkV6;
+  SOCKET_ERROR = integer(-1);
