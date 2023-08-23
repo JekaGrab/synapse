@@ -45,3 +45,4 @@ const
   SOCKET_ERROR = integer(-1);
 
   FIONREAD     = integer($4004667f);
+  FIONBIO      = integer($8004667e);
