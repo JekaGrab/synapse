@@ -49,3 +49,5 @@ const
   FIOASYNC     = integer($8004667d);
 
   SOMAXCONN       = integer($7fffffff);
+
+  IPPROTO_IP = ProtocolType.IP;
