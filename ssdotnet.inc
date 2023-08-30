@@ -51,3 +51,4 @@ const
   SOMAXCONN       = integer($7fffffff);
 
   IPPROTO_IP = ProtocolType.IP;
+  IPPROTO_ICMP = ProtocolType.Icmp;
