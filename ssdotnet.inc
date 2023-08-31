@@ -52,3 +52,4 @@ const
 
   IPPROTO_IP = ProtocolType.IP;
   IPPROTO_ICMP = ProtocolType.Icmp;
+  IPPROTO_IGMP = ProtocolType.Igmp;
