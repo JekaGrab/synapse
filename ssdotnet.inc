@@ -55,3 +55,4 @@ const
   IPPROTO_IGMP = ProtocolType.Igmp;
   IPPROTO_TCP = ProtocolType.Tcp;
   IPPROTO_UDP = ProtocolType.Udp;
+  IPPROTO_RAW = ProtocolType.Raw;
