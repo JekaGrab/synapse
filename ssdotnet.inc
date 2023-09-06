@@ -58,3 +58,4 @@ const
   IPPROTO_RAW = ProtocolType.Raw;
   IPPROTO_IPV6 = ProtocolType.IPV6;
 //
+  IPPROTO_ICMPV6 = ProtocolType.Icmp; //??
