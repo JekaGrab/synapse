@@ -59,3 +59,5 @@ const
   IPPROTO_IPV6 = ProtocolType.IPV6;
 //
   IPPROTO_ICMPV6 = ProtocolType.Icmp; //??
+
+  SOCK_STREAM     = SocketType.Stream;
