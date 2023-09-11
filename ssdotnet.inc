@@ -61,3 +61,4 @@ const
   IPPROTO_ICMPV6 = ProtocolType.Icmp; //??
 
   SOCK_STREAM     = SocketType.Stream;
+  SOCK_DGRAM      = SocketType.Dgram;
