@@ -62,3 +62,4 @@ const
 
   SOCK_STREAM     = SocketType.Stream;
   SOCK_DGRAM      = SocketType.Dgram;
+  SOCK_RAW        = SocketType.Raw;
