@@ -65,3 +65,5 @@ const
   SOCK_RAW        = SocketType.Raw;
   SOCK_RDM        = SocketType.Rdm;
   SOCK_SEQPACKET  = SocketType.Seqpacket;
+
+  SOL_SOCKET = SocketOptionLevel.Socket;
