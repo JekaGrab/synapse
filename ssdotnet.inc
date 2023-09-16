@@ -67,3 +67,4 @@ const
   SOCK_SEQPACKET  = SocketType.Seqpacket;
 
   SOL_SOCKET = SocketOptionLevel.Socket;
+  SOL_IP = SocketOptionLevel.Ip;
