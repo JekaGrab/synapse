@@ -68,3 +68,6 @@ const
 
   SOL_SOCKET = SocketOptionLevel.Socket;
   SOL_IP = SocketOptionLevel.Ip;
+
+
+  IP_OPTIONS          = SocketOptionName.IPOptions;
