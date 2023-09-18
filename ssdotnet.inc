@@ -71,3 +71,4 @@ const
 
 
   IP_OPTIONS          = SocketOptionName.IPOptions;
+  IP_HDRINCL          = SocketOptionName.HeaderIncluded;
