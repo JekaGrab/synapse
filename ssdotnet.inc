@@ -73,3 +73,4 @@ const
   IP_OPTIONS          = SocketOptionName.IPOptions;
   IP_HDRINCL          = SocketOptionName.HeaderIncluded;
   IP_TOS              = SocketOptionName.TypeOfService;           { set/get IP Type Of Service       }
+  IP_TTL              = SocketOptionName.IpTimeToLive;           { set/get IP Time To Live          }
