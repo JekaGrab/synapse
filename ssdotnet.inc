@@ -75,3 +75,4 @@ const
   IP_TOS              = SocketOptionName.TypeOfService;           { set/get IP Type Of Service       }
   IP_TTL              = SocketOptionName.IpTimeToLive;           { set/get IP Time To Live          }
   IP_MULTICAST_IF     = SocketOptionName.MulticastInterface;           { set/get IP multicast interface   }
+  IP_MULTICAST_TTL    = SocketOptionName.MulticastTimeToLive;           { set/get IP multicast timetolive  }
