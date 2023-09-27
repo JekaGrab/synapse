@@ -79,3 +79,4 @@ const
   IP_MULTICAST_LOOP   = SocketOptionName.MulticastLoopback;           { set/get IP multicast loopback    }
   IP_ADD_MEMBERSHIP   = SocketOptionName.AddMembership;           { add  an IP group membership      }
   IP_DROP_MEMBERSHIP  = SocketOptionName.DropMembership;           { drop an IP group membership      }
+  IP_DONTFRAGMENT     = SocketOptionName.DontFragment;           { set/get IP Don't Fragment flag   }
