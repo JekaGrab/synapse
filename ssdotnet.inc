@@ -82,3 +82,4 @@ const
   IP_DONTFRAGMENT     = SocketOptionName.DontFragment;           { set/get IP Don't Fragment flag   }
 
   IPV6_UNICAST_HOPS      = 8;  // TTL
+  IPV6_MULTICAST_IF      = 9;  // set/get IP multicast i/f
