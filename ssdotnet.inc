@@ -84,3 +84,4 @@ const
   IPV6_UNICAST_HOPS      = 8;  // TTL
   IPV6_MULTICAST_IF      = 9;  // set/get IP multicast i/f
   IPV6_MULTICAST_HOPS    = 10; // set/get IP multicast ttl
+  IPV6_MULTICAST_LOOP    = 11; // set/get IP multicast loopback
