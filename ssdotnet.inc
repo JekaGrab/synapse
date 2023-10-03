@@ -86,3 +86,4 @@ const
   IPV6_MULTICAST_HOPS    = 10; // set/get IP multicast ttl
   IPV6_MULTICAST_LOOP    = 11; // set/get IP multicast loopback
   IPV6_JOIN_GROUP        = 12; // add an IP group membership
+  IPV6_LEAVE_GROUP       = 13; // drop an IP group membership
