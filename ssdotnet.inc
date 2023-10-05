@@ -89,3 +89,4 @@ const
   IPV6_LEAVE_GROUP       = 13; // drop an IP group membership
 
   SO_DEBUG        = SocketOptionName.Debug;          { turn on debugging info recording }
+  SO_ACCEPTCONN   = SocketOptionName.AcceptConnection;          { socket has had listen() }
