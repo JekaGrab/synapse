@@ -90,3 +90,4 @@ const
 
   SO_DEBUG        = SocketOptionName.Debug;          { turn on debugging info recording }
   SO_ACCEPTCONN   = SocketOptionName.AcceptConnection;          { socket has had listen() }
+  SO_REUSEADDR    = SocketOptionName.ReuseAddress;          { allow local address reuse }
