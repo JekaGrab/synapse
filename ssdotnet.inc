@@ -92,3 +92,4 @@ const
   SO_ACCEPTCONN   = SocketOptionName.AcceptConnection;          { socket has had listen() }
   SO_REUSEADDR    = SocketOptionName.ReuseAddress;          { allow local address reuse }
   SO_KEEPALIVE    = SocketOptionName.KeepAlive;          { keep connections alive }
+  SO_DONTROUTE    = SocketOptionName.DontRoute;          { just use interface addresses }
