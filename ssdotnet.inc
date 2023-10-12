@@ -94,3 +94,4 @@ const
   SO_KEEPALIVE    = SocketOptionName.KeepAlive;          { keep connections alive }
   SO_DONTROUTE    = SocketOptionName.DontRoute;          { just use interface addresses }
   SO_BROADCAST    = SocketOptionName.Broadcast;          { permit sending of broadcast msgs }
+  SO_USELOOPBACK  = SocketOptionName.UseLoopback;          { bypass hardware when possible }
