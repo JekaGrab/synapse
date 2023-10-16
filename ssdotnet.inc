@@ -97,3 +97,4 @@ const
   SO_USELOOPBACK  = SocketOptionName.UseLoopback;          { bypass hardware when possible }
   SO_LINGER       = SocketOptionName.Linger;          { linger on close if data present }
   SO_OOBINLINE    = SocketOptionName.OutOfBandInline;          { leave received OOB data in line }
+  SO_DONTLINGER   = SocketOptionName.DontLinger;
