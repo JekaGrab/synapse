@@ -98,3 +98,4 @@ const
   SO_LINGER       = SocketOptionName.Linger;          { linger on close if data present }
   SO_OOBINLINE    = SocketOptionName.OutOfBandInline;          { leave received OOB data in line }
   SO_DONTLINGER   = SocketOptionName.DontLinger;
+{ Additional options. }
