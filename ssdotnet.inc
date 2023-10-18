@@ -99,3 +99,4 @@ const
   SO_OOBINLINE    = SocketOptionName.OutOfBandInline;          { leave received OOB data in line }
   SO_DONTLINGER   = SocketOptionName.DontLinger;
 { Additional options. }
+  SO_SNDBUF       = SocketOptionName.SendBuffer;          { send buffer size }
