@@ -100,3 +100,4 @@ const
   SO_DONTLINGER   = SocketOptionName.DontLinger;
 { Additional options. }
   SO_SNDBUF       = SocketOptionName.SendBuffer;          { send buffer size }
+  SO_RCVBUF       = SocketOptionName.ReceiveBuffer;          { receive buffer size }
