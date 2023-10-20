@@ -101,3 +101,4 @@ const
 { Additional options. }
   SO_SNDBUF       = SocketOptionName.SendBuffer;          { send buffer size }
   SO_RCVBUF       = SocketOptionName.ReceiveBuffer;          { receive buffer size }
+  SO_SNDLOWAT     = SocketOptionName.SendLowWater;          { send low-water mark }
