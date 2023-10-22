@@ -103,3 +103,4 @@ const
   SO_RCVBUF       = SocketOptionName.ReceiveBuffer;          { receive buffer size }
   SO_SNDLOWAT     = SocketOptionName.SendLowWater;          { send low-water mark }
   SO_RCVLOWAT     = SocketOptionName.ReceiveLowWater;          { receive low-water mark }
+  SO_SNDTIMEO     = SocketOptionName.SendTimeout;          { send timeout }
