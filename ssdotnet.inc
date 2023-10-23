@@ -104,3 +104,4 @@ const
   SO_SNDLOWAT     = SocketOptionName.SendLowWater;          { send low-water mark }
   SO_RCVLOWAT     = SocketOptionName.ReceiveLowWater;          { receive low-water mark }
   SO_SNDTIMEO     = SocketOptionName.SendTimeout;          { send timeout }
+  SO_RCVTIMEO     = SocketOptionName.ReceiveTimeout;          { receive timeout }
