@@ -106,3 +106,4 @@ const
   SO_SNDTIMEO     = SocketOptionName.SendTimeout;          { send timeout }
   SO_RCVTIMEO     = SocketOptionName.ReceiveTimeout;          { receive timeout }
   SO_ERROR        = SocketOptionName.Error;          { get error status and clear }
+  SO_TYPE         = SocketOptionName.Type;          { get socket type }
