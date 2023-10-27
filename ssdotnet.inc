@@ -109,3 +109,4 @@ const
   SO_TYPE         = SocketOptionName.Type;          { get socket type }
 
 { WinSock 2 extension -- new options }
+//  SO_GROUP_ID       = $2001; { ID of a socket group}
