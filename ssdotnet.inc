@@ -112,3 +112,4 @@ const
 //  SO_GROUP_ID       = $2001; { ID of a socket group}
 //  SO_GROUP_PRIORITY = $2002; { the relative priority within a group}
 //  SO_MAX_MSG_SIZE   = $2003; { maximum message size }
+//  SO_PROTOCOL_INFOA = $2004; { WSAPROTOCOL_INFOA structure }
