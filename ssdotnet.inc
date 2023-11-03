@@ -114,3 +114,4 @@ const
 //  SO_MAX_MSG_SIZE   = $2003; { maximum message size }
 //  SO_PROTOCOL_INFOA = $2004; { WSAPROTOCOL_INFOA structure }
 //  SO_PROTOCOL_INFOW = $2005; { WSAPROTOCOL_INFOW structure }
+//  SO_PROTOCOL_INFO  = SO_PROTOCOL_INFOA;
