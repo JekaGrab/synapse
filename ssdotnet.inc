@@ -115,3 +115,4 @@ const
 //  SO_PROTOCOL_INFOA = $2004; { WSAPROTOCOL_INFOA structure }
 //  SO_PROTOCOL_INFOW = $2005; { WSAPROTOCOL_INFOW structure }
 //  SO_PROTOCOL_INFO  = SO_PROTOCOL_INFOA;
+//  PVD_CONFIG        = $3001; {configuration info for service provider }
