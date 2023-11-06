@@ -117,3 +117,4 @@ const
 //  SO_PROTOCOL_INFO  = SO_PROTOCOL_INFOA;
 //  PVD_CONFIG        = $3001; {configuration info for service provider }
 { Option for opening sockets for synchronous access. }
+//  SO_OPENTYPE     = $7008;
