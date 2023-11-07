@@ -118,3 +118,4 @@ const
 //  PVD_CONFIG        = $3001; {configuration info for service provider }
 { Option for opening sockets for synchronous access. }
 //  SO_OPENTYPE     = $7008;
+//  SO_SYNCHRONOUS_ALERT    = $10;
