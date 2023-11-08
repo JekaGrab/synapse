@@ -119,3 +119,4 @@ const
 { Option for opening sockets for synchronous access. }
 //  SO_OPENTYPE     = $7008;
 //  SO_SYNCHRONOUS_ALERT    = $10;
+//  SO_SYNCHRONOUS_NONALERT = $20;
