@@ -120,3 +120,4 @@ const
 //  SO_OPENTYPE     = $7008;
 //  SO_SYNCHRONOUS_ALERT    = $10;
 //  SO_SYNCHRONOUS_NONALERT = $20;
+{ Other NT-specific options. }
