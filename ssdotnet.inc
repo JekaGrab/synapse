@@ -122,3 +122,4 @@ const
 //  SO_SYNCHRONOUS_NONALERT = $20;
 { Other NT-specific options. }
 //  SO_MAXDG        = $7009;
+//  SO_MAXPATHDG    = $700A;
