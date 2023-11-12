@@ -123,3 +123,4 @@ const
 { Other NT-specific options. }
 //  SO_MAXDG        = $7009;
 //  SO_MAXPATHDG    = $700A;
+//  SO_UPDATE_ACCEPT_CONTEXT     = $700B;
