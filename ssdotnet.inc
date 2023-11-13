@@ -124,3 +124,4 @@ const
 //  SO_MAXDG        = $7009;
 //  SO_MAXPATHDG    = $700A;
 //  SO_UPDATE_ACCEPT_CONTEXT     = $700B;
+//  SO_CONNECT_TIME = $700C;
