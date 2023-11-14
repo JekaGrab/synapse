@@ -125,3 +125,6 @@ const
 //  SO_MAXPATHDG    = $700A;
 //  SO_UPDATE_ACCEPT_CONTEXT     = $700B;
 //  SO_CONNECT_TIME = $700C;
+
+
+  { All Windows Sockets error constants are biased by WSABASEERR from the "normal" }
