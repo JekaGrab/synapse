@@ -129,3 +129,5 @@ const
 
   { All Windows Sockets error constants are biased by WSABASEERR from the "normal" }
   WSABASEERR              = 10000;
+
+{ Windows Sockets definitions of regular Microsoft C error constants }
