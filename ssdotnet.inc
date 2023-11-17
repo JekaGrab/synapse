@@ -131,3 +131,5 @@ const
   WSABASEERR              = 10000;
 
 { Windows Sockets definitions of regular Microsoft C error constants }
+
+  WSAEINTR                = (WSABASEERR+4);
