@@ -133,3 +133,4 @@ const
 { Windows Sockets definitions of regular Microsoft C error constants }
 
   WSAEINTR                = (WSABASEERR+4);
+  WSAEBADF                = (WSABASEERR+9);
