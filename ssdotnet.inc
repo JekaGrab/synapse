@@ -134,3 +134,4 @@ const
 
   WSAEINTR                = (WSABASEERR+4);
   WSAEBADF                = (WSABASEERR+9);
+  WSAEACCES               = (WSABASEERR+13);
