@@ -136,3 +136,4 @@ const
   WSAEBADF                = (WSABASEERR+9);
   WSAEACCES               = (WSABASEERR+13);
   WSAEFAULT               = (WSABASEERR+14);
+  WSAEINVAL               = (WSABASEERR+22);
