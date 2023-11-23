@@ -137,3 +137,4 @@ const
   WSAEACCES               = (WSABASEERR+13);
   WSAEFAULT               = (WSABASEERR+14);
   WSAEINVAL               = (WSABASEERR+22);
+  WSAEMFILE               = (WSABASEERR+24);
