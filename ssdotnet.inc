@@ -138,3 +138,5 @@ const
   WSAEFAULT               = (WSABASEERR+14);
   WSAEINVAL               = (WSABASEERR+22);
   WSAEMFILE               = (WSABASEERR+24);
+
+{ Windows Sockets definitions of regular Berkeley error constants }
