@@ -140,3 +140,5 @@ const
   WSAEMFILE               = (WSABASEERR+24);
 
 { Windows Sockets definitions of regular Berkeley error constants }
+
+  WSAEWOULDBLOCK          = (WSABASEERR+35);
