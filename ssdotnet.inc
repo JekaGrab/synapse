@@ -142,3 +142,4 @@ const
 { Windows Sockets definitions of regular Berkeley error constants }
 
   WSAEWOULDBLOCK          = (WSABASEERR+35);
+  WSAEINPROGRESS          = (WSABASEERR+36);
