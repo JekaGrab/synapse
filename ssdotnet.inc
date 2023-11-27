@@ -143,3 +143,4 @@ const
 
   WSAEWOULDBLOCK          = (WSABASEERR+35);
   WSAEINPROGRESS          = (WSABASEERR+36);
+  WSAEALREADY             = (WSABASEERR+37);
