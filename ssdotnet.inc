@@ -146,3 +146,4 @@ const
   WSAEALREADY             = (WSABASEERR+37);
   WSAENOTSOCK             = (WSABASEERR+38);
   WSAEDESTADDRREQ         = (WSABASEERR+39);
+  WSAEMSGSIZE             = (WSABASEERR+40);
